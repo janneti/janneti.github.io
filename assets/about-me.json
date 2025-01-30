@@ -29,21 +29,21 @@
                 {
                     "position": "Atk-asiantuntija",
                     "company": "Etelä-Savon pelastuslaitos",
-                    "fromYear": "6/2017",
+                    "fromYear": "1/2017",
                     "toYear": "8/2017",
                     "description": "WebGL-pelien kehittäminen (Unity ja C#), erilaisten pienien Windows Form -ohjelmien ohjelmointi (C#), CBRNE-animaation toteutus (Unity, Blender), intranetin ylläpito, IT-tukitehtävät yms."
                 },
                 {
                     "position": "Atk-asiantuntija",
                     "company": "Etelä-Savon pelastuslaitos",
-                    "fromYear": "5/2016",
+                    "fromYear": "1/2016",
                     "toYear": "8/2016",
                     "description": "Johtamisharjoitussovelluksen kehittäminen (Unity ja C#), intranetin kehittäminen ja ylläpito (Sharepoint Online, Sharepoint Designer, HTML, CSS, JavaScript & jQuery), muut toimistotyöt ja IT-tukitehtävät yms"
                 },
                 {
                     "position": "Atk-harjoittelija",
                     "company": "Etelä-Savon pelastuslaitos",
-                    "fromYear": "6/2015",
+                    "fromYear": "1/2015",
                     "toYear": "8/2015",
                     "description": "Intranetin kehittäminen ja ylläpito (Sharepoint Online, Sharepoint Designer, HTML, CSS, JavaScript & jQuery), intranetin mobiiliversion kehittäminen (Sharepoint Online, HTML, CSS, JavaScript, jQuery), muut toimistotyöt ja IT-tukitehtävät"
                 }
