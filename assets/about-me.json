@@ -1,0 +1,138 @@
+{
+    "general": {
+        "header": "Curriculum vitae",
+        "tabHeaders": [
+            "PROFILE",
+            "EDUCATION",
+            "WORK EXPERIENCE",
+            "SKILLS",
+            "CONTACT"
+        ]
+    },
+    "profile": {
+        "header": "Profile",
+        "profilePicUrl": "assets/images/profile-pic.jpg",
+        "profileText": [
+"Olen rauhallinen ja tunnollinen persoona ja tulen hyvin toimeen erilaisten ihmisten kanssa. Arvostan tiimityöskentelyä ja osaan toimia tehokkaasti yhteistyössä muiden kanssa. Uteliaisuus ja halu oppia uutta vievät minua eteenpäin ja osaan organisoida työtehtäviä järjestelmällisesti. Sitoudun aina tekemään parhaani ja otan vastuun tehtävistäni.",
+"Kokemusta alan töistä on kertynyt pelastuslaitoksella työskennellessäni, jossa pääsin toteuttamaan mielenkiintoisia kehittämistehtäviä. Lokakuusta 2017 lähtien olen työskennellyt erilaisten metsäalan järjestelmien parissa Trimble Forestryllä ja sen myötä tutuksi on tullut WPF sovelluskehitys sekä web-kehittäminen ja erilaiset rajapinnat."
+        ],
+        "workExperience": {
+            "header": "Work experience",
+            "experiences": [
+                {
+                    "position": "Business systems analyst",
+                    "company": "Trimble Forestry Europe",
+                    "fromYear": "10/2017",
+                    "toYear": "",
+                    "description": "Metsäalan järjestelmien kehittäminen (.NET, C#, WPF, DevExpress, ReSharper, Entity Framework, Angular/TypeScript)"
+                },
+                {
+                    "position": "Atk-asiantuntija",
+                    "company": "Etelä-Savon pelastuslaitos",
+                    "fromYear": "6/2017",
+                    "toYear": "8/2017",
+                    "description": "WebGL-pelien kehittäminen (Unity ja C#), erilaisten pienien Windows Form -ohjelmien ohjelmointi (C#), CBRNE-animaation toteutus (Unity, Blender), intranetin ylläpito, IT-tukitehtävät yms."
+                },
+                {
+                    "position": "Atk-asiantuntija",
+                    "company": "Etelä-Savon pelastuslaitos",
+                    "fromYear": "5/2016",
+                    "toYear": "8/2016",
+                    "description": "Johtamisharjoitussovelluksen kehittäminen (Unity ja C#), intranetin kehittäminen ja ylläpito (Sharepoint Online, Sharepoint Designer, HTML, CSS, JavaScript & jQuery), muut toimistotyöt ja IT-tukitehtävät yms"
+                },
+                {
+                    "position": "Atk-harjoittelija",
+                    "company": "Etelä-Savon pelastuslaitos",
+                    "fromYear": "6/2015",
+                    "toYear": "8/2015",
+                    "description": "Intranetin kehittäminen ja ylläpito (Sharepoint Online, Sharepoint Designer, HTML, CSS, JavaScript & jQuery), intranetin mobiiliversion kehittäminen (Sharepoint Online, HTML, CSS, JavaScript, jQuery), muut toimistotyöt ja IT-tukitehtävät"
+                }
+            ]
+        }
+    },
+    "skills": {
+        "programming": {
+            "header": "Programming",
+            "items": [
+                ".NET",
+                "Angular",
+                "Vue.js",
+                "WPF",
+                "Typescript",
+                "C#",
+                "Java",
+                "JavaScript",
+                "REST API",
+                "Bitbucket",
+                "GitHub"
+            ]
+        },
+        "other": {
+            "header": "Other",
+            "items": [
+                "Visual studio",
+                "Visual studio code",
+                "JetBrains",
+                "WebStorm",
+                "GitHub Copilot",
+                "Redmine",
+                "Jira",
+                "Unity"
+            ]
+        }
+    },
+    "recommendators": [
+        {
+            "name": "Jyri Silmäri",
+            "position": "Pelastuspäällikkö",
+            "company": "Etelä-Savon pelastuslaitos",
+            "phoneNumber": "+358 44 794 3750",
+            "email": "jyri.silmari(at)espl.fi"
+        }
+    ],
+    "contactInformation": {
+        "header": "Contact information",
+        "firstName": "Janne",
+        "surName": "Tikkanen",
+        "streetAddress": "Hallituskatu 7 as 10",
+        "postCode": "50100",
+        "city": "Mikkeli",
+        "email": "jjanne.tikkanen(at)gmail.com",
+        "phoneNumber": "+358 40 415 1449",
+        "linkedInUrl": "https://www.linkedin.com/in/janne-tikkanen-453505178",
+        "facebookUrl": "https://www.facebook.com/janne.tikkanen.5",
+        "instagramUrl": "https://www.instagram.com/jjanneti"
+    },
+    "education": {
+        "header": "Education",
+        "data": [
+            {
+                "title": "Tradenomi tietojenkäsittely",
+                "school": "Kaakkois-Suomen ammattikorkeakoulu",
+                "years": "2014-2017"
+            },
+            {
+                "title": "ELEKTRONIIKKA-ASENTAJA Elektroniikan ja tietoliikennetekniikan ko",
+                "school": "Etelä-Savon ammattiopisto",
+                "years": "2008-2011"
+            }
+        ]
+    },
+    "languageSkills": {
+        "header": "Language skills",
+        "languages": [
+            {
+                "language": "Finnish",
+                "level": "Native language"
+            },
+            {
+                "language": "English",
+                "level": "Good"
+            },
+            {
+                "language": "Swedish",
+                "level": "Average"
+            }
+        ]
+    }
+}
