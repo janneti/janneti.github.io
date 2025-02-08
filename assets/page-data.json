@@ -1,0 +1,177 @@
+{
+    "general": {
+        "header": "Curriculum vitae",
+        "tabs": [
+            {
+               "contentType": "Profile",
+               "localizationKey": "profile"
+            },
+            {
+                "contentType": "WorkExperience",
+                "localizationKey": "workExperience"
+            },
+            {
+                "contentType": "Skills",
+                "localizationKey": "skills"
+            },
+            {
+                "contentType": "EducationAndLanguage",
+                "localizationKey": "educationAndLanguage"
+            },
+            {
+                "contentType": "ContactInformation",
+                "localizationKey": "contactInformation"
+            }
+        ],
+        "languages": [
+            "fi",
+            "en" 
+        ]
+    },
+    "profile": {
+        "profilePicUrl": "assets/images/profile-pic.jpg",
+        "profileTextLocalizationKeys": [
+            "profileTextFirstParagraph",
+            "profileTextSeconsParagraph"
+        ],
+        "workExperience": {
+            "titleLocalizationKey": "title",
+            "experiences": [
+                {
+                    "positionLocalizationKey": "businessSystemsAnalyst",
+                    "companyLocalizationKey": "companyTrimble",
+                    "fromYear": "10/2017",
+                    "toYear": "",
+                    "descriptionLocalizationKey": "forestSystemsDevelopment"
+                },
+                {
+                    "positionLocalizationKey": "itSpecialist",
+                    "companyLocalizationKey": "companySouthSavoRescueDepartment",
+                    "fromYear": "6/2017",
+                    "toYear": "8/2017",
+                    "descriptionLocalizationKey": "southSavoRescueDepartment2017Description"
+                },
+                {
+                    "positionLocalizationKey": "itSpecialist",
+                    "companyLocalizationKey": "companySouthSavoRescueDepartment",
+                    "fromYear": "5/2016",
+                    "toYear": "8/2016",
+                    "descriptionLocalizationKey": "southSavoRescueDepartment2016Description"
+                },
+                {
+                    "positionLocalizationKey": "itIntern",
+                    "companyLocalizationKey": "companySouthSavoRescueDepartment",
+                    "fromYear": "6/2015",
+                    "toYear": "8/2015",
+                    "descriptionLocalizationKey": "southSavoRescueDepartment2015Description"
+                }
+            ]
+        }
+    },
+    "skills": {
+        "programming": {
+            "titleLocalizationKey": "programming",
+            "items": [
+                ".NET",
+                "Angular",
+                "Vue.js",
+                "WPF",
+                "Entity Framework",
+                "Typescript",
+                "C#",
+                "REST API",
+                "Bitbucket",
+                "GitHub"
+            ]
+        },
+        "other": {
+            "titleLocalizationKey": "other",
+            "items": [
+                "Visual studio",
+                "Visual studio code",
+                "JetBrains",
+                "WebStorm",
+                "GitHub Copilot",
+                "Redmine",
+                "Jira",
+                "Unity"
+            ]
+        }
+    },
+    "recommendators": [
+        {
+            "name": "Jyri Silmäri",
+            "position": "Pelastuspäällikkö",
+            "company": "Etelä-Savon pelastuslaitos",
+            "phoneNumber": "+358 44 794 3750",
+            "email": "jyri.silmari(at)espl.fi"
+        }
+    ],
+    "contactInformation": {
+        "titleLocalizationKey": "contactInformation",
+        "firstName": "Janne",
+        "surName": "Tikkanen",
+        "streetAddress": "Hallituskatu 7 as 10",
+        "postCode": "50100",
+        "cityLocalizationKey": "cityMikkeli",
+        "cityLink": "https://maps.app.goo.gl/hTMyKM5zqjdfqiur6",
+        "contactItems": [
+            {  
+                "titleLocalizationKey": "",
+                "additionalInformation" : "+358 40 415 1449",
+                "link": "tel:+358 40 415 1449",
+                "imageUrl": "",
+                "icon": "call",
+                "textLocalizationKey": "call"
+            },
+            {
+                "titleLocalizationKey": "",
+                "additionalInformation" : "jjanne.tikkanen(at)gmail.com",
+                "link": "mailto:jjanne.tikkanen@gmail.com",
+                "imageUrl": "",
+                "icon": "mail",
+                "textLocalizationKey": "email"
+            },
+            {
+                "titleLocalizationKey": "linkedIn",
+                "additionalInformation" : "",
+                "link": "https://www.linkedin.com/in/janne-tikkanen-453505178",
+                "imageUrl": "assets/images/linkedin.png",
+                "icon": "",
+                "textLocalizationKey": "visit"
+            }
+        ]
+    },
+    "education": {
+        "titleLocalizationKey": "education",
+        "data": [
+            {
+                "titleLocalizationKey": "businessInformationTechnology",
+                "schoolLocalizationKey": "southEasternUniversity",
+                "years": "2014-2017"
+            },
+            {
+                "titleLocalizationKey": "ictTechnician",
+                "schoolLocalizationKey": "southSavoVocationalCollege",
+                "years": "2008-2011"
+            }
+        ]
+    },
+    "languageSkills": {
+        "titleLocalizationKey": "languageSkills",
+        "languages": [
+            {
+                "languageLocalizationKey": "finnish",
+                "levelLocalizationKey": "levelNativeLanguage"
+            },
+            {
+                "languageLocalizationKey": "english",
+                "levelLocalizationKey": "levelGood"
+            },
+            {
+                "languageLocalizationKey": "swedish",
+                "levelLocalizationKey": "levelAverage"
+            }
+        ]
+    }
+}

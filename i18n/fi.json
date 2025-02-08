@@ -1,0 +1,59 @@
+{
+    "tabs": {
+        "profile": "PROFIILI",
+        "workExperience": "TYÖKOKEMUS",
+        "skills": "TAIDOT",
+        "educationAndLanguage": "KOULUTUS",
+        "contactInformation": "OTA YHTEYTTÄ"
+    },
+    "pages": {
+        "profile": {
+            "title": "Profiili",
+            "profileTextFirstParagraph": "Olen työskennellyt IT-alalla vuodesta 2015 lähtien, jolloin sain ensimmäisen työpaikkani IT-harjoittelijana Etelä-Savon pelastuslaitokselta, jossa myös myöhemmin toimin IT-asiantuntijana. Lokakuusta 2017 alkaen olen työskennellyt Trimble Forestry:llä erilaisten metsäjärjestelmien parissa. Työkokemukseni myötä tutuksi ovat tulleet esimerkiksi WPF-sovelluskehitys sekä Web-kehitys. Osaamista minulta löytyy monipuolisesti frontti ja bäkki devaamisesta.",
+            "profileTextSeconsParagraph": "Luonteeltani olen rauhallinen, tunnollinen ja järjestelmällinen. Arvostan tiimityöskentelyä ja tulen hyvin toimeen erilaisten ihmisten kanssa, mutta usean vuoden etätyökokemuksen myötä myös itsenäinen työskentely sujuu minulta luontevasti. Olen utelias ja haluan kehittää itseäni sekä sitoudun täysillä työtehtäviini."
+        },
+        "workExperience": {
+            "title": "Työkokemus",
+            "forestSystemsDevelopment": "Metsäalan järjestelmien kehittäminen (.NET, C#, WPF, DevExpress, ReSharper, Entity Framework, Angular/TypeScript)",
+            "itSpecialist": "IT-asiantuntija",
+            "itIntern": "IT-harjoittelija",
+            "companyTrimble": "Trimble Forestry Europe",
+            "companySouthSavoRescueDepartment": "Etelä-Savon pelastuslaitos",
+            "businessSystemsAnalyst": "Business systems analyst",
+            "southSavoRescueDepartment2017Description": "WebGL-pelien kehittäminen (Unity ja C#), erilaisten pienien Windows Form -ohjelmien ohjelmointi (C#), CBRNE-animaation toteutus (Unity, Blender), intranetin ylläpito, IT-tukitehtävät yms.",
+            "southSavoRescueDepartment2016Description": "Johtamisharjoitussovelluksen kehittäminen (Unity ja C#), intranetin kehittäminen ja ylläpito (Sharepoint Online, Sharepoint Designer, HTML, CSS, JavaScript & jQuery), muut toimistotyöt ja IT-tukitehtävät yms.",
+            "southSavoRescueDepartment2015Description": "Intranetin kehittäminen ja ylläpito (Sharepoint Online, Sharepoint Designer, HTML, CSS, JavaScript & jQuery), intranetin mobiiliversion kehittäminen (Sharepoint Online, HTML, CSS, JavaScript, jQuery), muut toimistotyöt ja IT-tukitehtävät."
+        },
+        "skills": {
+            "programming": "Ohjelmointi",
+            "other": "Muut"
+        },
+        "educationAndLanguage": {
+            "education": "Koulutus",
+            "languageSkills": "Kielitaito",
+            "businessInformationTechnology" : "Tradenomi tietojenkäsittely",
+            "southEasternUniversity": "Kaakkois-Suomen ammattikorkeakoulu",
+            "ictTechnician": "ELEKTRONIIKKA-ASENTAJA Elektroniikan ja tietoliikennetekniikan ko",
+            "southSavoVocationalCollege": "Etelä-Savon ammattiopisto",
+            "finnish": "Suomi",
+            "english": "Englanti",
+            "swedish": "Ruotsi",
+            "levelNativeLanguage": "Äidinkieli",
+            "levelGood": "Hyvä",
+            "levelAverage": "Tyydyttävä"
+        },
+        "contact": {
+            "contactInformation": "Yhteystiedot",
+            "linkedIn": "LinkedIn",
+            "cityMikkeli": "Mikkeli"
+        }
+    },
+    "general": {
+        "visit": "Vieraile",
+        "call": "Soita",
+        "email": "Email",
+        "maps": "Kartta",
+        "fi": "Suomi",
+        "en": "Englanti"
+    }
+}
