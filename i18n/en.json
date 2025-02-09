@@ -9,8 +9,8 @@
     "pages": {
         "profile": {
             "title": "Profile",
-            "profileTextFirstParagraph": "I have been working in the IT field since 2015, when I got my first job as an IT intern at the South-Savo rescue department, where I also later worked as an IT specialist. Since October 2017, I have been working at Trimble Forestry on various forest systems. Through my work experience, I have become familiar with, for example, WPF application development and Web development. I have versatile experience in frontend and backend development.",
-            "profileTextSeconsParagraph": "I am calm, conscientious and systematic. I value teamwork and get along well with different people, but with several years of remote work experience, independent work also comes naturally to me. I am curious and want to develop myself, and I fully commit to my work tasks."
+            "profileTextFirstParagraph": "I have been working in the IT field since 2015, first as an IT intern at the South-Savo rescue department, where I also later worked as an IT specialist. Since October 2017, I have been working at Trimble Forestry on various forest systems. Through my work experience, I have become familiar with, for example, WPF application development and Web development. I have versatile experience in frontend and backend development.",
+            "profileTextSeconsParagraph": "I am calm, conscientious and systematic. I value teamwork and get along well with different people. With several years of remote work experience, independent work also comes naturally to me. I am curious and want to develop myself, and I fully commit to my work tasks."
         },
         "workExperience": {
             "title": "Work experience",
