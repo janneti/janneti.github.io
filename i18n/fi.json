@@ -11,6 +11,7 @@
             "title": "Profiili",
             "profileTextFirstParagraph": "Olen työskennellyt IT-alalla vuodesta 2015 lähtien, ensin IT-harjoittelijana Etelä-Savon pelastuslaitoksella, jossa myös myöhemmin toimin IT-asiantuntijana. Lokakuusta 2017 alkaen olen työskennellyt Trimble Forestry:llä erilaisten metsäjärjestelmien parissa. Työkokemukseni myötä tutuksi ovat tulleet esimerkiksi WPF-sovelluskehitys sekä Web-kehitys. Osaamista minulta löytyy monipuolisesti frontti ja bäkki devaamisesta.",
             "profileTextSeconsParagraph": "Luonteeltani olen rauhallinen, tunnollinen ja järjestelmällinen. Arvostan tiimityöskentelyä ja tulen hyvin toimeen erilaisten ihmisten kanssa. Usean vuoden etätyökokemuksen myötä myös itsenäinen työskentely sujuu minulta luontevasti. Olen utelias ja haluan kehittää itseäni sekä sitoudun täysillä työtehtäviini."
+        },
         "workExperience": {
             "title": "Työkokemus",
             "forestSystemsDevelopment": "Metsäalan järjestelmien kehittäminen (.NET, C#, WPF, DevExpress, ReSharper, Entity Framework, Angular/TypeScript)",
